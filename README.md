@@ -1,2 +1,2 @@
-# DNN
+# Classification And Clustering
 Classification And Clustering MNIST Dataset By Deep Neural Network (Advanced Data Mining Course Assignment)
