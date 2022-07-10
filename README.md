@@ -1,2 +1,4 @@
 # Classification And Clustering
-Classification And Clustering MNIST Dataset By Deep Neural Network (Advanced Data Mining Course Assignment)
+Classification MNIST Dataset By Deep Neural Network (Advanced Data Mining Course Assignment)
+and
+Clustering MNIST Dataset By Kmeans
